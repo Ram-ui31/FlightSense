@@ -1,0 +1,5 @@
+Package_ID,Length,Width,Height,Weight,Type,Delay_Cost
+P-1,70,40,50,100,Priority,0
+P-2,70,40,50,100,Priority,0
+P-3,70,40,50,150,Economy,20
+P-4,70,40,50,150,Economy,30
